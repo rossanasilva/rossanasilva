@@ -10,6 +10,7 @@
   <img align="center" alt="Roh-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Roh-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Roh-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="right" alt="Roh-pic" height="150" src="https://i.picasion.com/pic92/dd8c2ea7a5eb9b471f62bba878f6bef0.gif">
 </div>
 <hr>
 <div>
